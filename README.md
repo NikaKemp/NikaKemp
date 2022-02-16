@@ -10,7 +10,7 @@
 - 👨‍💻 I started learning JavaScript in 2021 🎉
 - 📄 Right now I'm learning React and React Native
 - 📺 I worked in advertising for 7 years! 📣
-- 🔨 All of my projects are available on my [portfolio](vanessakemp.co.uk)
+- 🔨 All of my projects are available on my [portfolio](https://vanessakemp.co.uk/)
 - 👯 I would love to colaborate on open source project. 
 - 💬 Ask me about... something? 
 - 🐶 I love animals, and I do spoil my dog a little bit too much! 
